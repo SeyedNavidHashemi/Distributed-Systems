@@ -1,0 +1,672 @@
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 1
+-------------------------------------------
+Total Runtime     : 35.862753ms
+Throughput        : 27.8841 ops/sec
+Mean Delay        : 35.854807ms
+Min Delay         : 35.854807ms
+Max Delay         : 35.854807ms
+StdDev Delay      : 0s
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 1
+-------------------------------------------
+Total Runtime     : 36.305833ms
+Throughput        : 27.5438 ops/sec
+Mean Delay        : 36.275444ms
+Min Delay         : 36.275444ms
+Max Delay         : 36.275444ms
+StdDev Delay      : 0s
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 1
+-------------------------------------------
+Total Runtime     : 40.958915ms
+Throughput        : 24.4147 ops/sec
+Mean Delay        : 40.916083ms
+Min Delay         : 40.916083ms
+Max Delay         : 40.916083ms
+StdDev Delay      : 0s
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 2
+-------------------------------------------
+Total Runtime     : 72.421575ms
+Throughput        : 27.6161 ops/sec
+Mean Delay        : 66.987085ms
+Min Delay         : 62.117968ms
+Max Delay         : 71.856202ms
+StdDev Delay      : 4.869117ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 2
+-------------------------------------------
+Total Runtime     : 38.45412ms
+Throughput        : 52.0100 ops/sec
+Mean Delay        : 38.078476ms
+Min Delay         : 37.734363ms
+Max Delay         : 38.422589ms
+StdDev Delay      : 344.113µs
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 2
+-------------------------------------------
+Total Runtime     : 38.210034ms
+Throughput        : 52.3423 ops/sec
+Mean Delay        : 37.867815ms
+Min Delay         : 37.56921ms
+Max Delay         : 38.166421ms
+StdDev Delay      : 298.605µs
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 4
+-------------------------------------------
+Total Runtime     : 143.014248ms
+Throughput        : 27.9692 ops/sec
+Mean Delay        : 109.495183ms
+Min Delay         : 86.460608ms
+Max Delay         : 137.874334ms
+StdDev Delay      : 19.646668ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 4
+-------------------------------------------
+Total Runtime     : 77.13014ms
+Throughput        : 51.8604 ops/sec
+Mean Delay        : 68.991343ms
+Min Delay         : 58.315913ms
+Max Delay         : 76.923036ms
+StdDev Delay      : 7.361877ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 4
+-------------------------------------------
+Total Runtime     : 41.434905ms
+Throughput        : 96.5370 ops/sec
+Mean Delay        : 40.825445ms
+Min Delay         : 40.459014ms
+Max Delay         : 41.110674ms
+StdDev Delay      : 250.623µs
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 8
+-------------------------------------------
+Total Runtime     : 281.475935ms
+Throughput        : 28.4216 ops/sec
+Mean Delay        : 189.69629ms
+Min Delay         : 141.717656ms
+Max Delay         : 273.808893ms
+StdDev Delay      : 45.508755ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 8
+-------------------------------------------
+Total Runtime     : 162.583813ms
+Throughput        : 49.2054 ops/sec
+Mean Delay        : 110.357447ms
+Min Delay         : 76.193519ms
+Max Delay         : 124.346578ms
+StdDev Delay      : 16.352631ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 8
+-------------------------------------------
+Total Runtime     : 71.425172ms
+Throughput        : 112.0053 ops/sec
+Mean Delay        : 62.302501ms
+Min Delay         : 56.664797ms
+Max Delay         : 69.505153ms
+StdDev Delay      : 4.260333ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 16
+-------------------------------------------
+Total Runtime     : 588.136896ms
+Throughput        : 27.2046 ops/sec
+Mean Delay        : 387.07664ms
+Min Delay         : 280.666988ms
+Max Delay         : 570.73423ms
+StdDev Delay      : 98.255671ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 16
+-------------------------------------------
+Total Runtime     : 319.250714ms
+Throughput        : 50.1174 ops/sec
+Mean Delay        : 89.954729ms
+Min Delay         : 50.335328ms
+Max Delay         : 143.224977ms
+StdDev Delay      : 24.227821ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 16
+-------------------------------------------
+Total Runtime     : 94.143732ms
+Throughput        : 169.9529 ops/sec
+Mean Delay        : 87.514285ms
+Min Delay         : 82.897105ms
+Max Delay         : 92.876105ms
+StdDev Delay      : 2.750181ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 32
+-------------------------------------------
+Total Runtime     : 1.166280563s
+Throughput        : 27.4377 ops/sec
+Mean Delay        : 732.891857ms
+Min Delay         : 521.835106ms
+Max Delay         : 1.125403315s
+StdDev Delay      : 186.24364ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 32
+-------------------------------------------
+Total Runtime     : 616.349918ms
+Throughput        : 51.9186 ops/sec
+Mean Delay        : 156.837751ms
+Min Delay         : 60.625517ms
+Max Delay         : 258.235939ms
+StdDev Delay      : 52.668253ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 32
+-------------------------------------------
+Total Runtime     : 191.140622ms
+Throughput        : 167.4160 ops/sec
+Mean Delay        : 115.936186ms
+Min Delay         : 49.301956ms
+Max Delay         : 135.831584ms
+StdDev Delay      : 22.0883ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 1
+Goroutines        : 64
+-------------------------------------------
+Total Runtime     : 2.331625773s
+Throughput        : 27.4487 ops/sec
+Mean Delay        : 1.404166638s
+Min Delay         : 977.868387ms
+Max Delay         : 2.220033605s
+StdDev Delay      : 361.698156ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 2
+Goroutines        : 64
+-------------------------------------------
+Total Runtime     : 1.240504454s
+Throughput        : 51.5919 ops/sec
+Mean Delay        : 309.469432ms
+Min Delay         : 68.325401ms
+Max Delay         : 473.396614ms
+StdDev Delay      : 114.193831ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : cpu
+GOMAXPROCS        : 16
+Goroutines        : 64
+-------------------------------------------
+Total Runtime     : 366.130464ms
+Throughput        : 174.8011 ops/sec
+Mean Delay        : 186.816046ms
+Min Delay         : 57.998251ms
+Max Delay         : 251.613599ms
+StdDev Delay      : 54.18082ms
+Blocking Events   : 0
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 1
+-------------------------------------------
+Total Runtime     : 38.546966ms
+Throughput        : 25.9424 ops/sec
+Mean Delay        : 38.533771ms
+Min Delay         : 38.533771ms
+Max Delay         : 38.533771ms
+StdDev Delay      : 0s
+Blocking Events   : 1
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 1
+-------------------------------------------
+Total Runtime     : 39.310384ms
+Throughput        : 25.4386 ops/sec
+Mean Delay        : 39.293372ms
+Min Delay         : 39.293372ms
+Max Delay         : 39.293372ms
+StdDev Delay      : 0s
+Blocking Events   : 1
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 1
+-------------------------------------------
+Total Runtime     : 38.861878ms
+Throughput        : 25.7322 ops/sec
+Mean Delay        : 38.845677ms
+Min Delay         : 38.845677ms
+Max Delay         : 38.845677ms
+StdDev Delay      : 0s
+Blocking Events   : 1
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 2
+-------------------------------------------
+Total Runtime     : 50.989558ms
+Throughput        : 39.2237 ops/sec
+Mean Delay        : 45.956551ms
+Min Delay         : 41.387654ms
+Max Delay         : 50.525448ms
+StdDev Delay      : 4.568897ms
+Blocking Events   : 2
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 2
+-------------------------------------------
+Total Runtime     : 42.786301ms
+Throughput        : 46.7439 ops/sec
+Mean Delay        : 41.710615ms
+Min Delay         : 40.6726ms
+Max Delay         : 42.74863ms
+StdDev Delay      : 1.038015ms
+Blocking Events   : 2
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 2
+-------------------------------------------
+Total Runtime     : 40.57183ms
+Throughput        : 49.2953 ops/sec
+Mean Delay        : 40.321889ms
+Min Delay         : 40.089122ms
+Max Delay         : 40.554657ms
+StdDev Delay      : 232.767µs
+Blocking Events   : 2
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 4
+-------------------------------------------
+Total Runtime     : 73.478439ms
+Throughput        : 54.4377 ops/sec
+Mean Delay        : 45.425759ms
+Min Delay         : 45.091326ms
+Max Delay         : 45.833794ms
+StdDev Delay      : 279.512µs
+Blocking Events   : 4
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 4
+-------------------------------------------
+Total Runtime     : 50.375593ms
+Throughput        : 79.4035 ops/sec
+Mean Delay        : 45.085153ms
+Min Delay         : 39.809471ms
+Max Delay         : 50.34763ms
+StdDev Delay      : 5.246424ms
+Blocking Events   : 4
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 4
+-------------------------------------------
+Total Runtime     : 40.248846ms
+Throughput        : 99.3817 ops/sec
+Mean Delay        : 39.625542ms
+Min Delay         : 39.226264ms
+Max Delay         : 39.996576ms
+StdDev Delay      : 330.131µs
+Blocking Events   : 4
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 8
+-------------------------------------------
+Total Runtime     : 145.313569ms
+Throughput        : 55.0534 ops/sec
+Mean Delay        : 69.83336ms
+Min Delay         : 37.895511ms
+Max Delay         : 133.012425ms
+StdDev Delay      : 30.640848ms
+Blocking Events   : 8
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 8
+-------------------------------------------
+Total Runtime     : 106.937459ms
+Throughput        : 74.8101 ops/sec
+Mean Delay        : 73.41017ms
+Min Delay         : 42.114767ms
+Max Delay         : 106.766925ms
+StdDev Delay      : 26.212754ms
+Blocking Events   : 8
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 8
+-------------------------------------------
+Total Runtime     : 48.091188ms
+Throughput        : 166.3506 ops/sec
+Mean Delay        : 43.787705ms
+Min Delay         : 42.215733ms
+Max Delay         : 47.647175ms
+StdDev Delay      : 1.866435ms
+Blocking Events   : 8
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 16
+-------------------------------------------
+Total Runtime     : 288.038753ms
+Throughput        : 55.5481 ops/sec
+Mean Delay        : 103.374429ms
+Min Delay         : 37.636628ms
+Max Delay         : 227.577602ms
+StdDev Delay      : 66.663404ms
+Blocking Events   : 16
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 16
+-------------------------------------------
+Total Runtime     : 173.465418ms
+Throughput        : 92.2374 ops/sec
+Mean Delay        : 76.336845ms
+Min Delay         : 39.264758ms
+Max Delay         : 105.400272ms
+StdDev Delay      : 25.175351ms
+Blocking Events   : 16
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 16
+-------------------------------------------
+Total Runtime     : 72.964464ms
+Throughput        : 219.2848 ops/sec
+Mean Delay        : 62.650483ms
+Min Delay         : 52.588624ms
+Max Delay         : 66.669607ms
+StdDev Delay      : 3.711805ms
+Blocking Events   : 16
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 32
+-------------------------------------------
+Total Runtime     : 571.729954ms
+Throughput        : 55.9705 ops/sec
+Mean Delay        : 174.691957ms
+Min Delay         : 37.538281ms
+Max Delay         : 480.932406ms
+StdDev Delay      : 155.746691ms
+Blocking Events   : 32
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 32
+-------------------------------------------
+Total Runtime     : 305.51995ms
+Throughput        : 104.7395 ops/sec
+Mean Delay        : 113.179688ms
+Min Delay         : 38.509104ms
+Max Delay         : 258.969985ms
+StdDev Delay      : 77.674437ms
+Blocking Events   : 32
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 32
+-------------------------------------------
+Total Runtime     : 92.177703ms
+Throughput        : 347.1555 ops/sec
+Mean Delay        : 66.920803ms
+Min Delay         : 59.174765ms
+Max Delay         : 85.227958ms
+StdDev Delay      : 5.344967ms
+Blocking Events   : 32
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 1
+Goroutines        : 64
+-------------------------------------------
+Total Runtime     : 1.155470826s
+Throughput        : 55.3887 ops/sec
+Mean Delay        : 331.937341ms
+Min Delay         : 37.659221ms
+Max Delay         : 949.181754ms
+StdDev Delay      : 310.792719ms
+Blocking Events   : 64
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 2
+Goroutines        : 64
+-------------------------------------------
+Total Runtime     : 649.874143ms
+Throughput        : 98.4806 ops/sec
+Mean Delay        : 244.694915ms
+Min Delay         : 38.256045ms
+Max Delay         : 603.067611ms
+StdDev Delay      : 184.541576ms
+Blocking Events   : 64
+===========================================
+
+===========================================
+             EXPERIMENT RESULTS            
+===========================================
+Workload Type     : mixed
+GOMAXPROCS        : 16
+Goroutines        : 64
+-------------------------------------------
+Total Runtime     : 237.745812ms
+Throughput        : 269.1951 ops/sec
+Mean Delay        : 103.422211ms
+Min Delay         : 51.503976ms
+Max Delay         : 158.266655ms
+StdDev Delay      : 24.879595ms
+Blocking Events   : 64
+===========================================
+
