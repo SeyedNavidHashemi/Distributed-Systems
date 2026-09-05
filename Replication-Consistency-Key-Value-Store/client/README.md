@@ -2,7 +2,7 @@
 
 This folder contains the automated client script designed to benchmark the Replicated Key-Value Store. It calculates the necessary metrics required for the final report's performance table, including latency, convergence time, and stale read counts.
 
-**Soroush Esfahanian 810101376** - **Navid Hashemi 810101549**
+**Soroush Esfahanian** - **Navid Hashemi**
 
 ## **Project Structure**
 .
