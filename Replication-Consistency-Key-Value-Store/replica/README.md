@@ -2,7 +2,7 @@
 
 This folder contains the core implementation of the Replicated Key-Value Store for the third homework of the Distributed Computing course at the University of Tehran. It handles data replication, conflict resolution, and supports both Eventual and Simplified Strong consistency models.
 
-**Soroush Esfahanian 810101376** - **Navid Hashemi 810101549**
+**Soroush Esfahanian** - **Navid Hashemi**
 
 ## **Project Structure**
 .
