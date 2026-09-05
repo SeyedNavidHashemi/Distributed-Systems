@@ -5,7 +5,7 @@ This folder contains the core implementation of the Replicated Key-Value Store f
 **Soroush Esfahanian** - **Navid Hashemi**
 
 ## **Project Structure**
-.
+```text
 ├── configs/
 │   ├── replica1.json       # Port and peer configurations for Replica 1
 │   ├── replica2.json       # Port and peer configurations for Replica 2
@@ -13,6 +13,7 @@ This folder contains the core implementation of the Replicated Key-Value Store f
 ├── replica/
 │   ├── main.go             # Core Go program for running the replica service
 │   └── README.md           # This README file
+```
 
 ## **File Descriptions**
 **main.go:**
