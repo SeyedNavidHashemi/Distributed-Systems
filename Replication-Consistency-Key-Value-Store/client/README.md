@@ -5,6 +5,7 @@ This folder contains the automated client script designed to benchmark the Repli
 **Soroush Esfahanian** - **Navid Hashemi**
 
 ## **Project Structure**
+```text
 .
 ├── client/
 │   ├── main.go             # Go script for automating Scenario 4 metrics
@@ -14,6 +15,8 @@ This folder contains the automated client script designed to benchmark the Repli
 │   ├── scenario2.txt       # Captured logs for Node Failures
 │   ├── scenario3.txt       # Captured logs for Concurrent Conflicts
 │   └── scenario4.txt       # Captured metrics from the client program
+```
+
 
 ## **File Descriptions**
 **client/main.go:**
