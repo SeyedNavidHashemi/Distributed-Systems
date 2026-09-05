@@ -6,7 +6,6 @@ This folder contains the automated client script designed to benchmark the Repli
 
 ## **Project Structure**
 ```text
-.
 ├── client/
 │   ├── main.go             # Go script for automating Scenario 4 metrics
 │   └── README.md           # This README file
