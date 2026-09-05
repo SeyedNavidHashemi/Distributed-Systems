@@ -1,0 +1,12 @@
+--- Sending Concurrent PUT Requests ---
+
+--- Final State of Replicas (Resolution policy: Greater ID wins) ---
+
+Replica 1:
+{"key":"conflict","value":"B","version":1,"updated_by":"replica2"}
+
+Replica 2:
+{"key":"conflict","value":"B","version":1,"updated_by":"replica2"}
+
+Replica 3:
+{"key":"conflict","value":"B","version":1,"updated_by":"replica2"}

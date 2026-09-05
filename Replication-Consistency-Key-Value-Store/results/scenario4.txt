@@ -1,0 +1,22 @@
+-delay=500ms
+
+PUT Latency: 7.988044ms
+GET Latency (last successful): ~75.350045ms
+Stale Reads Count: 7
+Convergence Time: 602.800316ms
+
+==============================================
+-delay=2000ms
+
+PUT Latency: 1.487069ms
+GET Latency (last successful): ~70.959902ms
+Stale Reads Count: 28
+Convergence Time: 2.057837098s
+
+==============================================
+-consistency=strong & -delay=500ms
+
+PUT Latency: 701.638317ms
+GET Latency (last successful): ~1.658964ms
+Stale Reads Count: 0
+Convergence Time: 1.6589ms

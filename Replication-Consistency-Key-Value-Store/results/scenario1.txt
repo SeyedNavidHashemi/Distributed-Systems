@@ -1,0 +1,11 @@
+--- PUT x=100 in Replica 1 ---
+{"key":"x","value":"100","version":1,"updated_by":"replica1"}
+
+--- Immediate GET from Replica 2 (Expecting old/no data) ---
+Key not found
+
+--- Waiting 3 seconds... ---
+
+--- GET from Replica 2 after delay (Expecting updated data) ---
+{"key":"x","value":"100","version":1,"updated_by":"replica1"}
+

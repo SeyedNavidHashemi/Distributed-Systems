@@ -1,0 +1,16 @@
+--- Testing Eventual Consistency with Replica 2 Offline ---
+HTTP/1.1 200 OK
+Date: Mon, 15 Jun 2026 16:05:12 GMT
+Content-Length: 79
+Content-Type: text/plain; charset=utf-8
+
+{"key":"test2","value":"eventual_success","version":1,"updated_by":"replica1"}
+
+
+--- Testing Strong Consistency with Replica 2 Offline ---
+HTTP/1.1 200 OK
+Date: Mon, 15 Jun 2026 16:07:56 GMT
+Content-Length: 74
+Content-Type: text/plain; charset=utf-8
+
+{"key":"test2","value":"strong_fail","version":1,"updated_by":"replica1"}
